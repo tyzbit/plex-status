@@ -5,10 +5,11 @@ Run it:
 -------
 `docker run -it --net=host -e TOKEN=[your plex token] tyzbit/plex-status`
 
-|Environment Variable |          Description            |  Default               |
-|-------------------------------------------------------|------------------------|
-| TOKEN               | Your Plex API token (see below) | null                   |
-| PLEX_SERVER         | URL to plex server              | http://localhost:32400 |
+
+| Environment Variable |          Description            |  Default               |
+|----------------------|---------------------------------|------------------------|
+| TOKEN                | Your Plex API token (see below) | null                   |
+| PLEX_SERVER          | URL to plex server              | http://localhost:32400 |
 
 
 You get the token from viewing XML in the Plex UI and grabbing it from the URL
