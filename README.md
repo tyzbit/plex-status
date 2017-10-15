@@ -18,4 +18,4 @@ It needs host network since Plex doesn't allow API calls except from localhost, 
 
 Script originally from here: https://gist.github.com/Dirrk/608642bd820849736ad2
 
-Also, made into a module here: https://github.com/mrlannigan/plex-status
+Also, it's available as a module here: https://github.com/mrlannigan/plex-status
